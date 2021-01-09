@@ -1,11 +1,14 @@
 modLoader="javafml"
 license="MIT"
 loaderVersion="[35,)"
+issueTrackerURL="https://github.com/yurisuika/Spawn/issues"
 
 [[mods]]
 modId="spawn"
 version="1.0.0"
 displayName="Spawn"
+updateJSONURL="https://raw.githubusercontent.com/yurisuika/Spawn/master/updates.json"
+displayURL="https://github.com/yurisuika/Spawn"
 logoFile="pack.png"
 credits="yurisuika"
 authors="yurisuika"
