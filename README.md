@@ -2,24 +2,32 @@
 
 Spawn is a Forge mod for Minecraft that works in conjunction with our *[Sky](https://github.com/yurisuika/Sky)* dimension mod. It manages spawning on the SuikaCraft server. Currently the values are hardcoded, but these can be made configurable in the future if anyone wants to use this for their own server running Sky.
 
+---
+
 ## FEATURES
 
 ### Spawning
 
-#### First Spawn
+##### First Spawn
 
 * Spawn at 0,0!
 
-#### Subsequent Spawns
+##### Subsequent Spawns
 
 * If you do not have a bed set, you will respawn elsewhere!
 * Currently hardcoded for a location on our server.
 
+---
+
 ## CHANGELOG
+
+### 1.16 Releases
 
 ##### 1.0.0
 
 * Initial release!
+
+---
 
 ## DOWNLOADS
 
@@ -50,6 +58,8 @@ While you can compile from source, you can always download the latest releases r
 Stable releases of Sky ready to be consumed by the public!
 
 ##### 1.16 - [*`1.0.0`*](https://github.com/yurisuika/Sky/releases/download/1.0.0/sky-1.16.4-1.0.0.jar)
+
+---
 
 ## LINKS
 
