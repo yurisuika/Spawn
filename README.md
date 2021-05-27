@@ -23,6 +23,14 @@ Spawn is a Forge mod for Minecraft that works in conjunction with our *[Sky](htt
 
 ### 1.16 Releases
 
+##### 1.0.1
+
+* Updated to Forge 36.1.24 for MC 1.16.5!
+
+<details><summary>
+CLICK HERE TO SEE PAST LOGS!
+</summary>
+
 ##### 1.0.0
 
 * Initial release!
