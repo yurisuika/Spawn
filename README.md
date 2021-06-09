@@ -63,9 +63,9 @@ While you can compile from source, you can always download the latest releases r
 
 #### Latest Builds
 
-Stable releases of Sky ready to be consumed by the public!
+Stable releases of Spawn ready to be consumed by the public!
 
-##### 1.16 - [*`1.0.1`*](https://github.com/yurisuika/Sky/releases/download/1.0.1/sky-1.16.5-1.0.1.jar)
+##### 1.16 - [*`1.0.1`*](https://github.com/yurisuika/Spawn/releases/download/1.0.1/spawn-1.16.5-1.0.1.jar)
 
 ---
 
