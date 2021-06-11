@@ -75,7 +75,7 @@ Get all the hot tips and tricks here!
 
 #### DEPENDENCIES
 
-Sap requires *[Sky](https://github.com/yurisuika/Sky)* as a dependency!
+Spawn requires *[Sky](https://github.com/yurisuika/Sky)* as a dependency!
 
 #### SERVERS
 
