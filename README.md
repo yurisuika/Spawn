@@ -1,4 +1,4 @@
-# [Spawn](http://suikacraft.com)
+# Spawn
 
 Spawn is a Forge mod for Minecraft that works in conjunction with our *[Sky](https://github.com/yurisuika/Sky)* dimension mod. It manages spawning on the SuikaCraft server. Currently the values are hardcoded, but these can be made configurable in the future if anyone wants to use this for their own server running Sky.
 
