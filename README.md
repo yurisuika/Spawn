@@ -26,18 +26,6 @@ cd ./spawn
 
 Afterwards, your compiled JAR will be in `./build/libs`.
 
-### Released Builds
-
-While you can compile from source, you can always download the latest releases right off of GitHub. Either click the links below or check the releases tab.
-
-#### Latest Builds
-
-Stable releases of Spawn ready to be consumed by the public!
-
-##### 1.16 - [*`1.0.1`*](https://github.com/yurisuika/Spawn/releases/download/1.0.1/spawn-1.16.5-1.0.1.jar)
-
-For Forge 1.16.5!
-
 ---
 
 ## <p align="center">LINKS</p>
@@ -45,10 +33,6 @@ For Forge 1.16.5!
 #### Dependencies
 
 Spawn requires *[Sky](https://github.com/yurisuika/Sky)* as a dependency!
-
-#### Servers
-
-Join *`play.suikacraft.com`* to play on SuikaCraft today!
 
 #### Community
 
