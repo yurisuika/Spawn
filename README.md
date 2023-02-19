@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/yurisuika/Spawn/blob/Forge-1.16/src/main/resources/pack.png?raw=true" width="256" height="256"></p>
+<p align="center"><img src="https://github.com/yurisuika/Spawn/blob/Forge-1.16.5/src/main/resources/pack.png?raw=true" width="256" height="256"></p>
 
 **Spawn** is a Forge mod for Minecraft that works in conjunction with our *[Sky](https://github.com/yurisuika/Sky)* dimension mod. It manages spawning on the SuikaCraft server. Currently the values are hardcoded, but these can be made configurable in the future if anyone wants to use this for their own server running Sky.
 
